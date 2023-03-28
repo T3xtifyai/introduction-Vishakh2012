@@ -18,12 +18,12 @@ The credit-based model is particularly beneficial for users with less spending c
 
 ## Using Credits:
 
-Users can use their credits to access various ML applications on the application, such as machine learning algorithms, data analysis tools, and more. The credit-based model allows users to tailor their use of the application  to their specific needs, providing them with greater control over how they spend their credits.
+Users can use their credits to access various ML applications on the application, such as machine learning algorithms, data analysis tools, and more. The credit-based model allows users more control over their use of the application.
 
 ## Profitability and Scaling:
 
-The credit-based model will be profitable for the application, as it enables the monetization of the platform in a scalable and sustainable way. The application can set the price of credits and subscriptions to ensure profitability while also remaining competitive in the market. As the user base grows, the application can scale the credit-based model to meet increasing demand.
+Thus model enables the monetization of the platform in a scalable and sustainable way. The application can set the price of credits and subscriptions to ensure profitability while also remaining competitive in the market. As the user base grows, the application can scale the credit-based model to meet increasing demand.
 
 ## Conclusion:
 
-In conclusion, the credit-based model provides a unique monetization opportunity for an ML application  that benefits both users and the application By providing users with a flexible and profitable way to access ML applications on the app store, while also enabling the app store to monetize the platform in a scalable and sustainable way, the credit-based model is a win-win for all parties involved.
+The credit-based model provides a unique monetization opportunity for an ML application that benefits both users and the application By providing users with a flexible and profitable way to access ML applications, while also enabling the application to monetize the platform in a scalable and sustainable way, the credit-based model is a win-win for all parties involved.
