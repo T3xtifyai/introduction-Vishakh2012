@@ -1,4 +1,4 @@
-Proposal for a Credit-Based Monetization Model for an ML Application 
+Proposal for a Credit-Based Monetization Model for an ML Application
 
 - Introduction:
 
