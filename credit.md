@@ -10,7 +10,7 @@ The credit-based model works by providing users with a certain number of credits
 
 ## Earning Credits:
 
-In addition to purchasing credits, users can also earn credits through various means, such as by watching advertisements, completing surveys, or referring friends to the application. This will make the application more accessible to a wider range of users, including those with less spending capacity such as students.
+In addition to purchasing credits, users can also earn credits through various other means, such as by watching advertisements, completing surveys, or referring friends to the application. This will make the application more accessible to a wider range of users, including those with less spending capacity such as students.
 
 ## Catering to a Wider Range of Customers:
 
